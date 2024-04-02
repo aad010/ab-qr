@@ -1,3 +1,3 @@
 https://master--ab-qr.netlify.app/
 
-FrontEnd mentors challenge 1 using HTML & CSS
+Solution to Frontend Master's QR Code Component challenge: https://www.frontendmentor.io/solutions/qr-code-component-mSqIpJSan0
