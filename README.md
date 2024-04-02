@@ -1,1 +1,3 @@
-Made this project to practice my CSS skills and Semantic HTML -> pretty basic, but I learned a lot from this
+https://master--ab-qr.netlify.app/
+
+FrontEnd mentors challenge 1 using HTML & CSS
